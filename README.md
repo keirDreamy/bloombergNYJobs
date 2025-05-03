@@ -24,4 +24,5 @@ This is kept in the runBloombergJobPull.py file
         runBloombergJobPull(122, '/Users/keirdaniels/Downloads/BloombergTest.csv')
 
 
-#2 the
+===========
+The rest of of the files are other coding examples from various projects. 
